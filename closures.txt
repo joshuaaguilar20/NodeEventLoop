@@ -1,0 +1,5 @@
+**Closure is when a function can remember and access its lexical scope
+even when it’s invoked outside its lexical scope.
+Closures can trip us up, for instance with loops, if we’re not careful to
+recognize them and how they work. But they are also an immensely
+powerful tool, enabling patterns like modules in their various forms.**
